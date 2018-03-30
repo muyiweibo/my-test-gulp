@@ -1,0 +1,17 @@
+$size: 12px;
+@mixin back($bg: #000) {
+    background-color:$bg;
+}
+a{
+    font-size:10px;
+    display:flex;
+    font-size: $size;
+    @include back();
+    color: #000;
+}
+em{
+    @include back(#ccc);
+}
+body{
+    @include back(#aaa)
+}

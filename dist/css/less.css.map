@@ -1,0 +1,1 @@
+{"version":3,"sources":["less.less"],"names":[],"mappings":"AAAA,KACI,UAAA,eACA,UAAA","file":"less.css","sourcesContent":["body{\n    transform: translate(110);\n    font-size:12px;\n}"]}

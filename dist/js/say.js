@@ -1,0 +1,1 @@
+var say=function(e){e>0&&(e--,console.log(e),say(e))};say(10),console.log("------------eeeeewwwewee"),say(5);
